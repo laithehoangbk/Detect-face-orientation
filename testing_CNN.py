@@ -38,4 +38,3 @@ if __name__ == "__main__":
     print(CLASSES[labels])
 
     cv2.waitKey(0)
-pihfkdfkd
